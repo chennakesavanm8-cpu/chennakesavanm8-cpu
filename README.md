@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github banner.jpeg" width="100%">
+</p>
+
 👋 Hi, I'm Chennakesavan
 
 ☁️ AWS Cloud & DevOps Engineer
