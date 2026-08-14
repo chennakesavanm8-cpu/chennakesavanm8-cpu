@@ -1,16 +1,80 @@
-## Hi there 👋
+👋 Hi, I'm Chennakesavan
 
-<!--
-**chennakesavanm8-cpu/chennakesavanm8-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ AWS Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I’m passionate about Cloud Computing, DevOps, Automation, and Linux.
+I enjoy building, deploying, and managing applications using modern cloud and DevOps tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 About Me
+
+- ☁️ AWS Cloud & DevOps enthusiast
+- 🐳 Learning and working with Docker & Kubernetes
+- 🐧 Comfortable with Linux / RHEL
+- 🔧 Interested in CI/CD and automation
+- 🌱 Continuously improving my Cloud & DevOps skills
+- 💻 Building hands-on projects to strengthen my practical knowledge
+
+---
+
+🛠️ Tech Stack
+
+☁️ Cloud
+
+"AWS" "EC2" "S3" "IAM" "VPC" "RDS"
+
+⚙️ DevOps
+
+"Docker" "Kubernetes" "Jenkins" "Git" "GitHub"
+
+🐧 Operating Systems
+
+"Linux" "RHEL"
+
+💻 Programming & Scripting
+
+"Python" "Bash"
+
+---
+
+📌 Projects
+
+🍔 Dockerized Food Order Application
+
+- Containerized a food order web application using Docker
+- Created and managed Docker images and containers
+- Practiced application deployment and container management
+
+☁️ AWS Cloud Projects
+
+- EC2 instance configuration
+- RDS database connectivity
+- Security Group configuration
+- Linux server administration
+- AWS infrastructure practice
+
+---
+
+📜 Certifications
+
+- AWS Cloud Practitioner Essentials
+- Cloud Computing Fundamentals
+  
+---
+
+📊 GitHub Activity
+
+I’m actively building projects and improving my Cloud & DevOps skills through hands-on practice.
+
+---
+
+🤝 Connect With Me
+
+📌 GitHub: "chennakesavanm8-cpu" (https://github.com/chennakesavanm8-cpu)
+
+📌 LinkedIn: linkedin.com/in/chennakesavan-m-a56026301
+
+---
+
+⚡ “Learn. Build. Automate. Deploy. Repeat.”
