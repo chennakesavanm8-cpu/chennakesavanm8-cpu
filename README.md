@@ -1,3 +1,20 @@
+# 👋 Hi, I'm Chennakesavan
+
+### ☁️ AWS Cloud & DevOps Engineer
+
+I'm passionate about Cloud Computing, DevOps, Automation and Linux.
+Currently building hands-on projects with AWS, Docker and Kubernetes.
+
+## 🚀 About Me
+
+- ☁️ AWS Cloud & DevOps
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🐧 Linux / RHEL
+- 🔧 CI/CD
+- 🔀 Git & GitHub
+- 💻 Python & Bash
+
 <p align="center">
   <img src="./github banner.jpeg" width="100%">
 </p>
